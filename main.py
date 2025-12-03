@@ -5,6 +5,6 @@ app = FastAPI()
 @app.get("/")
 def read_root():
     return {"message":
-    "Make changes to this repo"
-    "and...."
+    "Make changes to this "
+    "connected repo and..."
     "watch CI/CD in action!"}
