@@ -6,4 +6,4 @@ app = FastAPI()
 def read_root():
     return {"message":
     "Lets make changes and..."
-    "watch CI/CD in action!!"}
+    "watch CI/CD in action!"}
