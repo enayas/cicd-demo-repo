@@ -7,4 +7,4 @@ def read_root():
     return {"message":
     "Make changes to this repo"
     "and..."
-    "watch CI/CD in action!"}
+    "watch CI/CD in action"}
